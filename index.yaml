@@ -3,12 +3,12 @@ entries:
   backend-deployment:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-31T17:23:06.2845601+01:00"
+    created: "2021-10-31T17:42:43.3018072+01:00"
     description: A Helm chart for Kubernetes
     digest: 9ec4036a1cae52c8d56c1be73e54be16120d4a61adfe79ac85f04031eae2e564
     name: backend-deployment
     type: application
     urls:
-    - https://github.com/gajewa/helm-repository/backend-deployment-0.1.0.tgz
+    - http://gajewa.github.io/helm-repository/backend-deployment-0.1.0.tgz
     version: 0.1.0
-generated: "2021-10-31T17:23:06.2840393+01:00"
+generated: "2021-10-31T17:42:43.3012894+01:00"
